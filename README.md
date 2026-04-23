@@ -1,11 +1,10 @@
-# 👋 Hi, I'm Tatiana
+👋 Hi, I'm Tatiana
 
 💻 Frontend Developer | 🎓 PhD Student at University of Hagen  
 
 I’m passionate about **programming, complexity, and data-driven solutions**.  
 I enjoy working with structured data, building intuitive visualizations, and continuously learning new technologies.
 
----
 
 ## 🚀 About Me
 
@@ -14,7 +13,6 @@ I enjoy working with structured data, building intuitive visualizations, and con
 - 📊 Bridging the gap between **frontend visualization** and **backend data processing**  
 - 📚 Continuous learner — always exploring new tools and technologies  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -32,20 +30,15 @@ I enjoy working with structured data, building intuitive visualizations, and con
 - Tableau Prep  
 - SAP BW  
 
----
-
 ## 🌱 Current Focus
 
 - 📊 Data quality & handling incomplete data  
 - 🧩 Combining academic research with practical applications  
 - 🎯 Improving frontend experiences for data products  
 
----
-
 ## 📫 Connect with Me
 
 Feel free to explore my repositories or reach out — I’m always open to interesting projects and collaborations!
 
----
 
 ⭐ *“Turning complex data into simple, meaningful solutions.”*
