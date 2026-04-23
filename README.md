@@ -22,10 +22,8 @@ I enjoy working with structured data, building intuitive visualizations and cont
 ### 🛠️ Tech Stack
 
 #### 🎨 Frontend & Visualization  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)  
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)  
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)  
 
 #### ⚙️ Backend & Data  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
