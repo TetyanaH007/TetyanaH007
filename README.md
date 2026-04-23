@@ -15,7 +15,7 @@ I enjoy working with structured data, building intuitive visualizations and cont
 
 ### 🚀 About Me
 - 💡 I love solving complex problems and turning data into meaningful insights  
-- 🧠 Strong interest in data quality, analytics and decision-making  
+- 🧠 Strong interest in **data quality**,analytics and **decision-making**  
 - 📊 Bridging the gap between **frontend visualization** and **backend data processing**  
 - 📚 Continuous learner — always exploring new tools and technologies  
 
