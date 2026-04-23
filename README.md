@@ -7,7 +7,6 @@ I enjoy working with structured data, building intuitive visualizations, and con
 
 
 ## 🚀 About Me
-
 - 💡 I love solving complex problems and turning data into meaningful insights  
 - 🧠 Strong interest in data quality, analytics, and decision-making  
 - 📊 Bridging the gap between **frontend visualization** and **backend data processing**  
@@ -22,14 +21,15 @@ I enjoy working with structured data, building intuitive visualizations, and con
 
 ### ⚙️ Backend & Data
 - Python  
-- SQL  
-- Microsoft SQL Server  
-
+- T-SQL
+- Oracle-SQL 
+ 
 ### 🔧 Data Engineering & Analytics
 - Alteryx  
 - Tableau Prep  
 - SAP BW  
-
+- Microsoft SQL Server
+- 
 ## 🌱 Current Focus
 
 - 📊 Data quality & handling incomplete data  
