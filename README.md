@@ -11,7 +11,7 @@ _Faculty of Mathematics and Computer Science_
 _Chair of Databases and Information Systems_ 
 
 I’m passionate about **programming, complexity and data-driven solutions**.  
-I enjoy working with structured data, building intuitive visualizations and continuously learning new technologies.
+I enjoy working with structured data, building intuitive visualizations and continuously learning about new technologies.
 
 ### 🚀 About Me
 - 💡 I love solving complex problems and turning data into meaningful insights  
